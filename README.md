@@ -17,7 +17,14 @@ up as sort of a mini-game.
 
 # Wireframes:
 
+Main grid with shuffled pipes and a hidden correct solution
+!(wireframe1.jpg)
 
+Pipe solution and hidden number functionality
+!(wireframe2.jpg)
+
+Main screen concept
+!(wireframe3.jpg)
 
 # User Stories: 
 
