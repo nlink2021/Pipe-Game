@@ -13,18 +13,18 @@ up as sort of a mini-game.
 - Be careful though, there's a timer until this water can't be held back anymore! If you don't have all your pipes in place, it'll leak out and it's game over! 
 - A keen eye will be able to tell which pieces are part of the solution and which ones are extraneous and don't need to be touched.   
 
-**Time to give Mario a run for this money as top plumber in town!**
+**Time to give Mario a run for his money as top plumber in town!**
 
 # Wireframes:
 
 Main grid with shuffled pipes and a hidden correct solution
-![](./assets/wireframe1.jpg)
+![1](./assets/wireframe1.jpg)
 
 Pipe solution and hidden number functionality
-![](./assets/wireframe2.jpg)
+![2](./assets/wireframe2.jpg)
 
 Main screen concept
-![](./assets/wireframe3.jpg)
+![3](./assets/wireframe3.jpg)
 
 # User Stories: 
 
