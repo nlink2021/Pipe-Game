@@ -1,0 +1,109 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#mainContainer {
+    display: flex;
+    flex-wrap: wrap;
+    border-color: blue;
+    border-style: dotted;
+    width: 600px;
+    justify-content: center;
+}
+
+.box {
+    border-style: solid;
+    border-color: red;
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 26pt;
+    z-index: 10;
+}
+
+#background {
+    position: absolute;
+    border-style: solid;
+    height: 700px;
+    width: 700px;
+    background-color: burlywood;
+}
+
+#startSide {
+    position: relative;
+    top: 80%;
+    left: 5%;
+    font-size: 20pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#finishSide {
+    position: relative;
+    top: 3%;
+    left: 76%;
+    font-size: 20pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    z-index: 10;
+}
+
+.void {
+    visibility: hidden;
+}
+
+.mainMenu {
+    display: flex;
+    flex-direction: column;
+    height: 800px;
+    width: 800px;
+    border-style: double;
+    border-color: black;
+    position: absolute;
+    z-index: 15;
+    background-color: lightblue;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#mainButton {
+    border-style: solid;
+    width: 300px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#instructions {
+    text-align: center;
+    width: 500px;
+    border-style: double;
+    border-color: blue;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainTitle {
+    font-size: 56pt;
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#pipeBackground {
+    opacity: 0.2;
+    height: 800px;
+    width: 800px;
+    position: absolute;
+}
+
+#win1 {
+    
+}
