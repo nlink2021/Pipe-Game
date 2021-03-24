@@ -104,6 +104,46 @@ h1 {
     position: absolute;
 }
 
-#win1 {
-    
+
+.pipe1-rotation1 {
+    background-image: url(/assets/elbow3.JPG);
+    object-fit: fill;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pipe1-rotation2 {
+    background-image: url(/assets/elbow1.JPG);
+    object-fit: fill;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pipe1-rotation3 {
+    background-image: url(/assets/elbow4.JPG);
+    object-fit: fill;
+    background-repeat: no-repeat;
+    background-size: contain;
+}   
+
+.pipe1-rotation4 {
+    background-image: url(/assets/elbow2.JPG);
+    object-fit: fill;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.pipe1-rotation5 {
+    background-image: url(/assets/stpipe1.png);
+    object-fit: fill;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pipe1-rotation6 {
+    background-image: url(/assets/stpipe2.png);
+    object-fit: fill;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
