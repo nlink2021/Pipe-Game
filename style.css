@@ -134,28 +134,28 @@ h1 {
 
 
 .pipe1-rotation1 {
-    background-image: url(/assets/elbownum1.png);
+    background-image: url(/assets/elbownum1.PNG);
     object-fit: fill;
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 .pipe1-rotation2 {
-    background-image: url(/assets/elbownum2.png);
+    background-image: url(/assets/elbownum2.PNG);
     object-fit: fill;
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 .pipe1-rotation3 {
-    background-image: url(/assets/elbownum3.png);
+    background-image: url(/assets/elbownum3.PNG);
     object-fit: fill;
     background-repeat: no-repeat;
     background-size: contain;
 }   
 
 .pipe1-rotation4 {
-    background-image: url(/assets/elbownum4.png);
+    background-image: url(/assets/elbownum4.PNG);
     object-fit: fill;
     background-repeat: no-repeat;
     background-size: contain;
@@ -163,14 +163,14 @@ h1 {
 
 
 .pipe1-rotation5 {
-    background-image: url(/assets/straightpipe1.png);
+    background-image: url(/assets/straightpipe1.PNG);
     object-fit: fill;
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 .pipe1-rotation6 {
-    background-image: url(/assets/straightpipe2.png);
+    background-image: url(/assets/straightpipe2.PNG);
     object-fit: fill;
     background-repeat: no-repeat;
     background-size: contain;
